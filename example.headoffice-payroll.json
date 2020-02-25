@@ -1,0 +1,16 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://domain.com/#payroll",
+    "name": "Organisation Payroll",
+    "alternateName": "Payroll",
+    "url": "https://domain.com/",
+    "telephone": "123321",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Street",
+        "addressLocality": "City",
+        "addressRegion": "State",
+        "postalCode": "60000"
+    }
+  }
