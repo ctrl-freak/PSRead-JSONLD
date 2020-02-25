@@ -1,0 +1,23 @@
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "Organisation Name",
+"alternateName": "Alternate Name",
+"url": "https://dommain.com",
+"logo": "",
+"department": [
+    {
+        "name": "Department One",
+        "alternateName": "Head Office",
+        "department": [
+            {"@id": "https://domain.com/#headoffice"}
+        ]
+    },{
+        "name": "Department Two",
+        "alternateName": "Satellite Office",
+        "subOrganization": [
+            {"@id": "https://bethanie.com.au/#satellite"}
+        ]
+    }
+  ]
+}
