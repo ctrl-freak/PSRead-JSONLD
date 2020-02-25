@@ -1,0 +1,16 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://domain.com/#human-resources",
+    "name": "Organisation Human Resources",
+    "alternateName": "HR",
+    "url": "https://domain.com/",
+    "telephone": "321123",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2 Road",
+        "addressLocality": "OtherCity",
+        "addressRegion": "OtherState",
+        "postalCode": "10000"
+    }
+  }
