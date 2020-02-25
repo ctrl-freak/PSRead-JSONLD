@@ -10,7 +10,7 @@
         "name": "Department One",
         "alternateName": "Head Office",
         "department": [
-            {"@id": "https://domain.com/#sales"}
+            {"@id": "https://domain.com/#payroll"}
         ]
     },{
         "name": "Department Two",
