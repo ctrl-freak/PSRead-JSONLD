@@ -10,13 +10,13 @@
         "name": "Department One",
         "alternateName": "Head Office",
         "department": [
-            {"@id": "https://domain.com/#headoffice"}
+            {"@id": "https://domain.com/#sales"}
         ]
     },{
         "name": "Department Two",
         "alternateName": "Satellite Office",
         "subOrganization": [
-            {"@id": "https://bethanie.com.au/#satellite"}
+            {"@id": "https://domain.com/#human-resources"}
         ]
     }
   ]
